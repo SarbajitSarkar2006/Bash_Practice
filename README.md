@@ -6,8 +6,9 @@ Welcome to my personal laboratory! This repository is a collection of Bash scrip
 
 Here are some of the scripts I have been working on:
 
-*  Shell programming and C programming
-
+* Shell Script to determine all prime numbers between two positive integers a and b. a and b are supplied as command line arguments.
+* Shell Script that counts the number of words in a line of text. The line text will be provided as command line arguments.
+* Write a Shell Script/Program to check whether a given string is a Palindrome or not.
 ## 🛠️ How to Run
 
 To execute any of these scripts on your local machine:
