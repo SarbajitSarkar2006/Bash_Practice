@@ -6,9 +6,7 @@ Welcome to my personal laboratory! This repository is a collection of Bash scrip
 
 Here are some of the scripts I have been working on:
 
-*   **`palindrome.sh`** - A script that checks if a provided string is a palindrome. Includes error handling for missing inputs!
-*   **`wordcount.sh`** - A program that counts the number of words in a provided line of text.
-*   **`prime.sh`** - [Add a brief description of what your prime script does here]
+*  Shell programming and C programming
 
 ## 🛠️ How to Run
 
