@@ -16,7 +16,7 @@ i) Print the current month and current year when called without parameter.
  ii)Print the calendar of the month of the current year if only one argument between 1 and 12.
 
 C Programming:
-*A PROGRAM (using fork) and/or exec commands) where parent and child execute:
+* A PROGRAM (using fork) and/or exec commands) where parent and child execute:
 a. Same program, same code.
 b. Same program, different code.
 c. Before terminating, the parent waits for the child to finish its task.  
