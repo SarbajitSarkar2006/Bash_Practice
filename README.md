@@ -29,6 +29,10 @@ To execute any of these scripts on your local machine:
 2. Navigate to the directory in your terminal.
 3. Make sure the script is executable by running: `chmod +x script_name.sh`
 4. Run the script: `./script_name.sh`
+5. for C , Clone this Repository.
+6. navigate to the directory in terminal.
+7. Make sure the script is executable by running: `gcc name.c -o name`
+8. Run the script: `./name`
 
 ## 🌱 My Learning Journey
 I am actively "learning in public." I built this repository to practice version control, command-line navigation, and switching contexts between compiled languages (like C) and scripting environments.
