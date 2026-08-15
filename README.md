@@ -17,9 +17,9 @@ i) Print the current month and current year when called without parameter.
 
 C Programming:
 *A PROGRAM (using fork) and/or exec commands) where parent and child execute:
- a. Same program, same code.
- b. Same program, different code.
- c. Before terminating, the parent waits for the child to finish its task.
+a. Same program, same code.
+b. Same program, different code.
+c. Before terminating, the parent waits for the child to finish its task.
 ## 🛠️ How to Run
 
 To execute any of these scripts on your local machine:
