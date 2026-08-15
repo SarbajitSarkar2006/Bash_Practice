@@ -10,6 +10,9 @@ Here are some of the scripts I have been working on:
 * Shell Script that counts the number of words in a line of text. The line text will be provided as command line arguments.
 * Shell Script/Program to check whether a given string is a Palindrome or not.
 * Shell Script/Program to print the command line arguments in reverse order.
+* Write a Shell Script/Program to modify the cal command of UNIX to include the following
+i) Print the current month and current year when called without parameter.
+ ii)Print the calendar of the month of the current year if only one argument between 1 and 12.
 ## 🛠️ How to Run
 
 To execute any of these scripts on your local machine:
