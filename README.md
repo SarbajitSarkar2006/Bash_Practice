@@ -8,7 +8,8 @@ Here are some of the scripts I have been working on:
 
 * Shell Script to determine all prime numbers between two positive integers a and b. a and b are supplied as command line arguments.
 * Shell Script that counts the number of words in a line of text. The line text will be provided as command line arguments.
-* Write a Shell Script/Program to check whether a given string is a Palindrome or not.
+* Shell Script/Program to check whether a given string is a Palindrome or not.
+* Shell Script/Program to print the command line arguments in reverse order.
 ## 🛠️ How to Run
 
 To execute any of these scripts on your local machine:
