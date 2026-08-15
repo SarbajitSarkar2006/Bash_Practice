@@ -1,4 +1,4 @@
-# Bash Practice & OS Fundamentals 💻
+# Bash,C Practice & OS Fundamentals 💻
 
 Welcome to my personal laboratory! This repository is a collection of Bash scripts and command-line tools I am writing as I dive deeper into Operating Systems, Linux, and automation. 
 
