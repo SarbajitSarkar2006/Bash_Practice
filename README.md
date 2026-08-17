@@ -20,6 +20,7 @@ C Programming:
 a. Same program, same code.
 b. Same program, different code.
 c. Before terminating, the parent waits for the child to finish its task.
+
 *A PROGRAM to report behavior of Linux kernel including kernel version, CPU type and model. (CPU information)  
 
 ## 🛠️ How to Run
